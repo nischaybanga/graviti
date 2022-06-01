@@ -1,0 +1,16 @@
+.navbar-class{
+    display: flex;
+    flex-direction: row;
+    height: 60px;
+    background-color: red;
+    width: 100%;
+    padding-bottom: 5px;
+    background-color: white;
+    padding-left:3%;
+}
+.logo-class{
+    height: 100%;
+}
+.heading-class{
+    font-weight: 640;
+}
